@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now You Win a Prize.  Pick 1: \n [] 5x Kiss Like a Fish \n [] 1x ORAL SEX \n[] 2x Lamb Cumin Noodle Dinners",
+        message: "Now Kiss like Fish",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
