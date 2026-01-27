@@ -183,6 +183,7 @@ function celebrate() {
     // Set celebration messages
     document.getElementById('celebrationTitle').textContent = config.celebration.title;
     document.getElementById('celebrationMessage').textContent = config.celebration.message;
+    const imageElem = document.createElement('img'); imageElem.alt = imageData.alt; imageElem.src = imageData.url;
     document.getElementById('celebrationEmojis').textContent = config.celebration.emojis;
     
     // Create heart explosion effect
