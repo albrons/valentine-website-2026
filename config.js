@@ -32,8 +32,14 @@ const CONFIG = {
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
-        third: {
+         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            yesBtn: "Yes!",                                             // Text for "Yes" button
+            noBtn: "No."                                                 // Text for "No" button
+        }
+    },
+        fourth: {
+            text: "Will you be my Valentine? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No."                                                 // Text for "No" button
         }
