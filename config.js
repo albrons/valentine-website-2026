@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "No."                                                 // Text for "No" button
         }
     },
 
@@ -44,13 +44,13 @@ const CONFIG = {
     loveMessages: {
         extreme: "WOOOOW You really do love me! 🥰🚀💝",  // Shows when they go past 5000%
         high: "Ok maybe I believe you 💝",              // Shows when they go past 1000%
-        normal: "That's it?! 😡😡😡"                           // Shows when they go past 100%
+        normal: "UM that's it?! 😡😡😡"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now You Pick 1: [] 5x Kiss Like a Fish [] 1x ORAL SEX [] 2x Lamb Cumin Noodle Dinners",
+        message: "Now You Win a Prize, Pick 1: [] 5x Kiss Like a Fish [] 1x ORAL SEX [] 2x Lamb Cumin Noodle Dinners",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
