@@ -209,6 +209,10 @@ function createHeartExplosion() {
     }
 }
 
+const imgElement = document.getElementById('myGif');
+imgElement.src = "https://media1.tenor.com/m/xEw90Gxub1YAAAAC/fish-kiss.gif" + new Date().getTime();
+}
+
 // Music Player Setup
 function setupMusicPlayer() {
     const musicControls = document.getElementById('musicControls');
