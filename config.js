@@ -38,12 +38,6 @@ const CONFIG = {
             noBtn: "No."                                                 // Text for "No" button
         }
     },
-        fourth: {
-            text: "Will you be my Valentine? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No."                                                 // Text for "No" button
-        }
-    },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
