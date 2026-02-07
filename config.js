@@ -51,7 +51,8 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now Kiss like Fish",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        imageUrl: "https://res.cloudinary.com/dqn7dttum/image/upload/fish-kiss_ecwbfv.gif",
+        emojis: "🐠💖🤗💝🐡💋❤️🐟💕"  // These will bounce around
     },
 
     // Color scheme for the website
