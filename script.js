@@ -191,7 +191,8 @@ function celebrate() {
     document.getElementById('celebrationTitle').textContent = config.celebration.title;
     document.getElementById('celebrationMessage').textContent = config.celebration.message;
     document.getElementById('celebrationEmojis').textContent = config.celebration.emojis;
-    
+    document.getElementById("celebrationImage").src = CONFIG.celebration.imageUrl;
+
     // Create heart explosion effect
     createHeartExplosion();
 }
